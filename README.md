@@ -69,3 +69,4 @@ I am open to:
 - Languages: English, Italian
 
 If this content helps you, follow the profile and star the repositories you find useful.
+
